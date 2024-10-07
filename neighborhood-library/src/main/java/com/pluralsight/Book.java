@@ -14,5 +14,5 @@ public class Book {
         this.isCheckedOut =
         this.checkedOutTo = "";
     }
-
+    checkOut (name)
 }
